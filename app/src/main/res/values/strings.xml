@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="solve">Solve</string>
+    <string name="a_text">A</string>
+    <string name="b_text">B</string>
+    <string name="c_text">C</string>
+    <string name="result">RESULT</string>>
+</resources>
